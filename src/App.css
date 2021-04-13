@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+
+.post-container {
+  background-color: #6f6f6f;
+  padding: 10px 40px;
+  border-radius: 10px;
+}
+
+.post-item-wrapper {
+  display: flex;
+  justify-content: space-between;
+}
+
+.post-field {
+  margin-left: 20px;
+  margin-right: 20px;
+}
